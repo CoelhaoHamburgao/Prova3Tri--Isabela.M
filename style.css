@@ -4,7 +4,7 @@ body{
 }
 p{
     color: crimson;
-    font-size: small;
+    font-size: large;
     margin: auto;
     text-align: center;
 }
@@ -12,6 +12,7 @@ li{
     color: darkred;
     padding-top: 0ch;
     text-align: center;
+    font-size: large;
 }
 img{
     size-adjust: 50;

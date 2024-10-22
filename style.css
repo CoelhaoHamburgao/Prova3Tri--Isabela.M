@@ -9,4 +9,8 @@ p{
 }
 li{
     color: darkred;
+    padding-top: 0ch;
+}
+img{
+    size-adjust: 50;
 }

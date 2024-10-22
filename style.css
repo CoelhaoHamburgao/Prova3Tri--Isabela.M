@@ -5,7 +5,7 @@ body{
 p{
     color: crimson;
     font-size: small;
-    
+    margin: auto;
 }
 li{
     color: darkred;

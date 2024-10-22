@@ -6,14 +6,24 @@ p{
     color: crimson;
     font-size: small;
     margin: auto;
+    text-align: center;
 }
 li{
     color: darkred;
     padding-top: 0ch;
+    text-align: center;
 }
 img{
     size-adjust: 50;
+    text-align: center;
 }
 h1{
     color: darkmagenta;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+a{
+    text-align: center;
 }

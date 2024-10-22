@@ -15,7 +15,7 @@ li{
 }
 img{
     size-adjust: 50;
-    text-align: center;
+    align-items: center;
 }
 h1{
     color: darkmagenta;
